@@ -1,0 +1,28 @@
+
+body{
+    background-color: rgb(49, 59, 51);
+    color: rgb(250, 253, 251) ;
+} 
+        h1 {
+            background-color:rgba(64, 209, 178, 0);
+            color:rgba(22, 235, 111);
+          } 
+       
+         h5
+        {
+            color :rgb(248, 162, 32)
+        }
+
+        h4
+        {
+             color : rgb(32, 248, 122)
+        }
+        h2
+        {
+            color :rgb(255, 255, 255)
+        }
+}
+         /* visited link */
+a:visited {
+    color: rgb(38, 65, 38);
+  }
